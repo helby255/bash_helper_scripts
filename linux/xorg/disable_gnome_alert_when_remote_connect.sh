@@ -1,0 +1,1 @@
+gsettings set org.gnome.Vino notify-on-connect false
